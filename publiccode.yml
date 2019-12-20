@@ -77,6 +77,7 @@ description:
       - Tematizzazione dati geografici
       - Profilazione per gruppi di utenti
     screenshots:
-      - screenshots/plugin_CSI_Atlante_1.png
-      - screenshots/plugin_CSI_Atlante_2.png
-      - screenshots/plugin_CSI_AtlanteWI_Componenti.png
+      - screenshots/CSI_AtlanteWI.png
+      - screenshots/CSI_AtlanteWI_1.png
+      - screenshots/CSI_AtlanteWI_2.png
+      - screenshots/CSI_AtlanteWI_Componenti.png
